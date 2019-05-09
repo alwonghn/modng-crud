@@ -1,0 +1,13 @@
+<div class="component-style table-component">
+  <table>
+    <tr>
+      <th *ngFor="let col of columns">{{col}}</th>
+    </tr>
+    <tr class="component-style table-row-component" *ngFor="let employee of employeeList">
+      <!-- <td>{{employee.id}}</td> -->
+      <td>{{employee.userName}}</td>
+      <td>{{employee.firstName}}</td>
+      <td>{{employee.lastName}}</td>
+    </tr>
+  </table>
+</div>
