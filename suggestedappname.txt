@@ -1,0 +1,5 @@
+/proj/app_ngsbr1
+
+/proj/app_ngsbr1/modng-crud
+
+/proj/app_ngsbr1/mod_crud_restjpa

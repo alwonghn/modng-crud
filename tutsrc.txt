@@ -1,0 +1,16 @@
+
+
+
+wwcode : workshops 1 & 2
+
+
+
+usage of rxjs observable and confirm how to, at table parent.compo.ts how to write service.getAll().subscribe( ..code to create...js data delegate to use to get data from rest endpoint... ):
+https://developer.okta.com/blog/2018/08/22/basic-crud-angular-7-and-spring-boot-2
+
+
+populate a table with retrieved-from-api modelinstance array
+https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d
+https://github.com/dddotcom/angular4-table-tutorial/blob/master/src/app/table/table.component.html
+
+
